@@ -1,0 +1,174 @@
+skills_group_0:
+- APL
+- COBOL
+- Clojure
+- Crystal
+- F#
+- Fortran
+- Haskell
+- Julia
+- LISP
+- OCaml
+- Perl
+- R
+- SAS
+- CouchDB
+- Couchbase
+- IBM DB2
+- Colocation
+- IBM Cloud or Watson
+- OpenStack
+- Tidyverse
+- Flow
+- Emacs
+- RStudio
+skills_group_1:
+- HTML/CSS
+- JavaScript
+- Solidity
+- TypeScript
+- MongoDB
+- Heroku
+- Angular
+- Angular.js
+- Deno
+- Express
+- Fastify
+- Gatsby
+- Next.js
+- Node.js
+- Nuxt.js
+- React.js
+- Svelte
+- Vue.js
+- Electron
+- React Native
+- Yarn
+- npm
+- Visual Studio Code
+skills_group_10:
+- Elixir
+- Erlang
+- Phoenix
+skills_group_11:
+- Capacitor
+- Cordova
+- Ionic
+skills_group_12:
+- Objective-C
+- Ruby
+- Swift
+- Ruby on Rails
+- Homebrew
+- RubyMine
+- TextMate
+- Xcode
+skills_group_2:
+- Go
+- Scala
+- Cassandra
+- DynamoDB
+- Elasticsearch
+- Neo4j
+- PostgreSQL
+- Redis
+- AWS
+- DigitalOcean
+- Linode
+- Play Framework
+- Apache Kafka
+- Apache Spark
+- Hadoop
+- Ansible
+- Chef
+- Docker
+- Kubernetes
+- Pulumi
+- Puppet
+- Terraform
+- GoLand
+skills_group_3:
+- MATLAB
+- Python
+- Django
+- FastAPI
+- Flask
+- Hugging Face Transformers
+- Keras
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow
+- Torch/PyTorch
+- IPython/Jupyter
+- PyCharm
+- Spyder
+skills_group_4:
+- C#
+- PowerShell
+- SQL
+- VBA
+- Microsoft SQL Server
+- Microsoft Azure
+- VMware
+- ASP.NET
+- 'ASP.NET Core '
+- Blazor
+- .NET
+- Uno Platform
+- Xamarin
+- Notepad++
+- Rider
+- Visual Studio
+skills_group_5:
+- Dart
+- Kotlin
+- Cloud Firestore
+- Firebase Realtime Database
+- SQLite
+- Firebase
+- Google Cloud
+- Flutter
+- Android Studio
+skills_group_6:
+- Assembly
+- Bash/Shell
+- C
+- C++
+- Lua
+- Rust
+- GTK
+- Qt
+- CLion
+- Nano
+- Neovim
+- Qt Creator
+- Vim
+skills_group_7:
+- Groovy
+- Java
+- Oracle
+- Oracle Cloud Infrastructure
+- Spring
+- Atom
+- Eclipse
+- IntelliJ
+- NetBeans
+- Sublime Text
+skills_group_8:
+- Delphi
+- Unity 3D
+- Unreal Engine
+- RAD Studio (Delphi, C++ Builder)
+skills_group_9:
+- PHP
+- MariaDB
+- MySQL
+- Managed Hosting
+- OVH
+- Drupal
+- Laravel
+- Symfony
+- jQuery
+- PhpStorm
+- Webstorm
